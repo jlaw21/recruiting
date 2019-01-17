@@ -50,13 +50,13 @@
     left: 200%
   }
   .slide-4 { 
-    background: url("pictures/slide2.png");
+    background: url(https://jlaw21.github.io/recruiting/pictures/slide2.png);
     background-repeat: no-repeat;
     background-size: cover;
     left: 300%;
   }
   .slide-5 {
-    background: url(/pictures/slide3.png);
+    background: url(https://jlaw21.github.io/recruiting/pictures/slide3.png);
     background-repeat: no-repeat;
     background-size: cover;
     left: 400%
@@ -66,7 +66,7 @@
     left: 500%
   }
   .slide-7 {
-    background: url(/pictures/slide4.jpg);
+    background: url(https://jlaw21.github.io/recruiting/pictures/slide4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     left: 600%
@@ -85,7 +85,7 @@
     color: white;
     display: flex;
     align-items: flex-start;
-    background: url(/pictures/slide5.png);
+    background: url(https://jlaw21.github.io/recruiting/pictures/slide5.png);
     background-repeat: no-repeat;
     background-size: cover;
     left: 900%
@@ -107,7 +107,7 @@
   color: black;
   display: flex;
   align-items: flex-start;
-  background: url(/pictures/slide7.jpg);
+  background: url(https://jlaw21.github.io/recruiting/pictures/slide7.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   left: 1200%
@@ -129,7 +129,7 @@
   left: 1600%
 }
 .slide-18{
-  background: url(/pictures/slide8.png);
+  background: url(https://jlaw21.github.io/recruiting/pictures/slide8.png);
   background-size: cover;
   background-repeat: no-repeat;
   left: 1700%
