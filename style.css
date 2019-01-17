@@ -32,7 +32,7 @@
 .slide-1 {
     position: absolute;
     font-family: 'Orbitron', sans-serif;
-    background: url(pictures/slide1.jpeg);
+    background: url("pictures/slide1.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     left: 0px;
@@ -50,7 +50,7 @@
     left: 200%
   }
   .slide-4 { 
-    background: url(/pictures/slide2.png);
+    background: url("pictures/slide2.png");
     background-repeat: no-repeat;
     background-size: cover;
     left: 300%;
